@@ -1,6 +1,9 @@
 # BA780_FinalProject
 Analyzing-Regional-Job-Trends-Across-Industry-Sectors-in-the-United-States
 
+Team A09
+Members - Leonardo, Jasmine, Ethan, Sulaiman, Madhumitha, Prudhvi
+
 The project, is an invaluable resource for anyone seeking a comprehensive understanding of the American job market.
 
 The key takeaways are as follows:
